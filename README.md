@@ -1,10 +1,13 @@
 # MQTT - Server
 To install node_module
 
+```bash
 npm install 
 ```
 
-ndoe mqtt-server.js
+Run MQTT-SERVER
+```bash
+node mqtt-server.js
 ```
 # SensiML Open Gateway
 
