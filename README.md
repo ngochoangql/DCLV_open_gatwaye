@@ -7,7 +7,7 @@ The Open Gateway implements the [Simple Streaming Service protocol](https://sens
 To install the app dependencies run
 
 ```bash
-cd open-gateway
+cd DCLV_open_gatwaye
 
 pip install -r requirements.txt
 ```
@@ -15,7 +15,7 @@ pip install -r requirements.txt
 To Start the application run
 
 ```bash
-python3 app.py
+py app.py
 ```
 
 Note: On windows use python 3.7 or 3.8.
