@@ -1,3 +1,9 @@
+# MQTT - Server
+npm install 
+```
+
+ndoe mqtt-server.js
+```
 # SensiML Open Gateway
 
 The Open Gateway implements the [Simple Streaming Service protocol](https://sensiml.com/documentation/simple-streaming-specification/introduction.html) to enable forwarding data to the SensiML Data Capture Lab for recording and annotation. The Gateway supports connecting to sensor sources over a Serial, BLE, and TCP/IP connections. It also supports recording video and sensor data locally to the gateway.
